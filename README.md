@@ -14,11 +14,12 @@ We hope this model may assist researchers in identifying potential biomarkers in
 
 
 
-## Table of Contents
 
+
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Generation](#data-generation)
+- [Simulation Experiment](#simulation-experiment)
 - [File Structure](#file-structure)
 
 ## Installation
