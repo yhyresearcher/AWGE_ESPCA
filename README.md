@@ -51,11 +51,9 @@ We hope this model may assist researchers in identifying potential biomarkers in
 
 3. The script will generate output files including `PC_data.csv` with principal component analysis results.
 
-## Data Generation
+## Simulation Experiment
 
- `Example.R` script generates a simulated dataset resembling genomic data to evaluate the performance of various PCA methods, including the AWGE-ESPCA model. It covers data generation, network construction, and applying different PCA techniques. Results are saved in `PC_data.csv `for analysis.
-
-
+The Example.R script conducts a simulation experiment to demonstrate the potential advantages of AWGE-ESPCA over other PCA methods. It generates synthetic genomic data, constructs a gene network, and compares AWGE-ESPCA with PCA, SPCA, ESPCA, and DM-ESPCA. Results are saved in PC_data.csv for analysis.
 
 
 
